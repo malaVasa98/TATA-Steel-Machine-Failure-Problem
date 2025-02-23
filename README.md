@@ -1,0 +1,1 @@
+The project splitted into two parts - EDA and ML. The EDA focuses on the exploratory data analysis done on the dataset and the ML part includes both EDA + ML classification implementation to predict machine failure. The dataset provided is train.csv
